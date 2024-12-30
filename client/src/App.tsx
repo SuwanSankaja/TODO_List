@@ -11,7 +11,7 @@ function App() {
 			<Navbar />
 			<Container>
 				<TodoForm />
-				{/* <TodoList /> */}
+				<TodoList />
 			</Container>
 		</Stack>
 	);
