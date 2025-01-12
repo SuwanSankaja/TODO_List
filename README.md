@@ -66,6 +66,6 @@ To-Do_List/
    ```
 
 5. **Run the Application:**
-   Access the application at [http://localhost:3000](http://localhost:3000).
+   Access the application at [http://localhost:5000](http://localhost:5000).
 
 
